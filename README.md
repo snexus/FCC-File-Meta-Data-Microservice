@@ -11,7 +11,7 @@ Visit filemetams.herokuapp.com
 
 
 ##Example Usage
-    http:// filemetams.herokuapp.com
+    filemetams.herokuapp.com
 
 
 
