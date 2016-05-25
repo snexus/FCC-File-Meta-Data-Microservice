@@ -1,0 +1,15 @@
+{
+  "name": "filemetadata",
+  "version": "1.0.1",
+  "description": "File Meta Data FCC Challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "express-session": "^1.11.3",
+    "multer": "^1.1.0",
+    "useragent": "^2.1.9"
+  }
+}
